@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Game 2048 🕹
 
 - [x] You can try the game from this link
@@ -47,3 +48,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author ✍️
 * [Ivan Kalyenichenko](https://github.com/vanya-kalyenichenko)
+=======
+# Base layout template with Gulp, SCSS and Stylelint
+1. Create a repo using this template
+1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
+    - [DEMO LINK]((https://vanya-kalyenichenko.github.io/2048-Game/))
+>>>>>>> 83ef3148a82f519a71b6f9921e97f3798cbd467a
